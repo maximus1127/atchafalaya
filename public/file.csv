@@ -1,0 +1,5 @@
+﻿id,fname,lname,email,phone,message,created_at,updated_at,active
+12,Angela,Connor,maxbourque1127@yahoo.com,"(337) 306-1919","I am interested in the ""The Milky Dud"" home.","10:17 pm 3/29/20","10:33 pm 3/29/20",0
+13,Max,Bourque,maxbourque1127@yahoo.com,"(337) 306-1916","test comment","07:55 pm 3/30/20","11:48 am 3/31/20",1
+14,Max,Connor,myself@me.com,561-7001,"test again","08:05 pm 3/30/20","08:05 pm 3/30/20",1
+15,Darrel,Jones,djones@mail.com,3848498,"this is darrel jones message","08:06 pm 3/30/20","08:06 pm 3/30/20",0

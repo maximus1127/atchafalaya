@@ -1,0 +1,54 @@
+/* footer Powered by Redball Technology */
+.poweredby{
+   width: 100%;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   font-family: Arial;
+   text-align: center;
+}
+.poweredby:after{
+   content: '';
+    display: block;
+    clear: both;
+}
+.poweredby .logo{
+   width: 50%;
+   float: left;
+}
+.poweredby .logo img{
+   display: block;
+   float: right;
+   padding-right: 30px;
+}
+.poweredby .links{
+  width: 50%;
+  float: right;
+  padding-top: 18px;
+  text-align: left;
+}
+.poweredby .links ul{
+  padding: 0;
+  margin: 0;
+}
+.poweredby .links ul li{
+  list-style-type: none;
+  display: inline;
+  padding-right: 15px;
+  font-size: 12px;
+}
+.poweredby .links ul li a{
+  color: #666;
+}
+
+@media only screen and (max-width: 680px) {  
+    .poweredby .logo,
+    .poweredby .links{
+      float: none !important;
+      width: 100% !important;
+      text-align: center;
+    }
+    .poweredby .logo img{
+      float: none;
+      margin: 0 auto;
+    }
+}
